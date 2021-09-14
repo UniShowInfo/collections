@@ -1,0 +1,13 @@
+{
+    "name": "UniShow NFT Collection",
+    "chain": "Ethereum Mainnet",
+    "version": "1.0.0",
+    "collections": [
+        {
+            "name": "Art Blocks Curated",
+            "address": "0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270",
+            "type": "ERC721",
+            "baseUri": "https://token.artblocks.io/"
+        }
+    ]
+}
